@@ -11,7 +11,7 @@ public class Task9_Wave {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Imput wave length: ");
         int waveLength = scanner.nextInt();
-        int waveHeight = 4;
+        int waveHeight = 5;
         pattern(waveHeight, waveLength);
     }
 //    static void pattern(int height, int length) {
